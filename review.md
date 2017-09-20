@@ -3,7 +3,7 @@
 
 Review of the book goes here.
 
-### What do do after this course?
+### What to do after this course?
 
 ### How can you continue your learning?
 

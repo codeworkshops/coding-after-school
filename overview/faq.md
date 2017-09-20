@@ -20,12 +20,14 @@ You can use coding to solve various kinds of problems or develop applications or
 - a tic-tac-toe game
 - using a map (gps) to find directions 
 - searching for something on the internet
+- sending a text message to your friend
+- posting a photo on instagram
 - watching a video on the internet
 
 
 ### What can I learn from this course?
 
-You would learn to understand what coding is and write simple programs. You will learn about various computer science concepts as well as understand about *computation thinking*.
+You would learn to understand what coding is and write simple programs. You will learn about various computer science concepts as well as understand about *computational thinking*.
 
 
 ### What programs and/or tools would I use?
