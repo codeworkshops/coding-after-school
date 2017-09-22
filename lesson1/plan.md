@@ -1,14 +1,10 @@
-#Lesson Plan
+#Introduction to Coding 
 
-## Lesson 1
 
-Lesson One Plan goes here.
 
----
-Who is faster?
-- [x] Snail
-- [ ] Hare
+#Tools
 
-> Hare is faster
+For this book or workshop, you will be using a couple of tools. 
 
----
+We will be using tools that are available on the Internet and you can simply access them using your Chrome, Firefox, or Safari browser.
+
