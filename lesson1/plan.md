@@ -17,6 +17,8 @@ The computer "program" or `code` itself that is designed to achieve a result.
 
 And the "output" or the result that comes out of the program.
 
+![Parts of Computer Program](lesson1-input-output.png)
+
 - Input
 
   Input to a program is usually what you as a person could give to the program. In some cases the program may get its "input" from another program. 
