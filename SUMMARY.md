@@ -3,7 +3,7 @@
 * [Overview](overview.md)
     * [Lessons](overview/lessons.md)
     * [FAQ](overview/faq.md)
-* [Lesson 1](lesson1.md) Introduction to Coding and Tools    
+* [Lesson 1](lesson1.md)  
     * [Lesson Plan](lesson1/plan.md)
     * [Examples](lesson1/examples.md)
     * [Exercises](lesson1/exercises.md)
