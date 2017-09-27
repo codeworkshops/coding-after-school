@@ -1,12 +1,14 @@
-#Introduction to Coding 
+# Introduction to Coding 
 
 
 
-#Tools
+# Tools
 
 For this book or workshop, you will be using a couple of tools. 
 
-We will be using tools that are available on the Internet and you can simply access them using your Chrome, Firefox, or Safari browser.
+You do NOT need to install any software on your computer. You can use all these tools within your web browser<sup>1</sup>. 
+
+
 
 
 # Parts of a Computer Program
@@ -35,3 +37,5 @@ And the "output" or the result that comes out of the program.
   Output is usually that comes out of a program and get displayed on the computer. It could be text or it could be things moving on the screen or images or movies.
 
 
+
+<sup>1.</sup> Latest version of Chrome, Firefox, or Safari web browser is required.
