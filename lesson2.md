@@ -13,14 +13,6 @@ A set of links.
 ## Exercises
 
 
----
-Who is faster?
-- [ ] Snail
-- [x] Hare (correct)
-
-> Hare is faster!
-
----
 
 ```
 ```

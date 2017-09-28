@@ -26,12 +26,12 @@ This book primarily covers the basic programming concepts using [Python](http://
 
 	Yes. There is no fee to take this course and you do not need to buy any software.
 
-- **_Can I use this course within my school or study group? _**
+- **_Can I use this course within my school or study group?_**
 
 	Yes. There are no restrictions in using this course in a school or for a group of students. 
 
 
-- **_Is there a study or discussion group to help with the course material or exercises? _**
+- **_Is there a study or discussion group to help with the course material or exercises?_**
 
 	There is not one at this point. However, if you have any questions, you may contact us with any course
 	related questions and we will try to answer them. 
