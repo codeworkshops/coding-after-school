@@ -13,6 +13,7 @@ A set of links.
 ## Exercises
 
 
+Draw four dots, equally separated, on a straight line.
 
 ```
 ```
