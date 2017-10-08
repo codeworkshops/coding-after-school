@@ -1,4 +1,5 @@
 
+
 #Overview
 
 
@@ -14,4 +15,7 @@ The exercises are built on top of the concepts leant within a given lesson. We e
 
 
 <sup>1</sup> Python programming language has a lot of information for beginners to advanced programmers. If you are curious, check out [Python website](https://www.python.org) for more information.
+
+NOTE: No previous computer programming experience required!
+
 
