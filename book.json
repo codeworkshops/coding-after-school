@@ -1,8 +1,9 @@
 
 
 {
-	
+
     "title": "Coding After School",
+    "description": "A book supplement to the Coding after school program for middle school students. The book is divided into eight lessons with one lesson scheduled per week for eight weeks of school.",
     "plugins": ["asciidoc-admonition-icons"],
     "pluginsConfig": {
 	    "admonitions": {

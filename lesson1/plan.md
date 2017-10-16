@@ -10,7 +10,6 @@ You do NOT need to install any software on your computer. You can use all these 
 
 
 
-
 # Parts of a Computer Program
 
 There are usually three parts to a program. What you give to the program as "input" or what you ask the computer program to do.
