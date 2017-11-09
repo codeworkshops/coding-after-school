@@ -8,7 +8,6 @@
 ## Links
 
 A set of links.
-2/13/16 
 
 ## Exercises
 
